@@ -12,4 +12,4 @@ A first-person shooter game with sound effects and a music lerp function, I made
 -   Includes a mini-map displaying player and enemy locations and distances
 <br/>
 Video Link: 
-(https://drive.google.com/file/d/1ezN7sUelOMCiZeDa-bJhAyBWiWGbD74q/view?usp=share_link)
+https://drive.google.com/file/d/1ezN7sUelOMCiZeDa-bJhAyBWiWGbD74q/view?usp=share_link
