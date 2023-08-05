@@ -1,5 +1,5 @@
 
-# FPS Game Test (Unity)
+# FPS Game Features Test (Unity)
 ![alt text](https://raw.githubusercontent.com/RayanYousef/FPS/main/FPS.png)
 <br/>
 
