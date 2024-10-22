@@ -7,9 +7,10 @@ A first-person shooter game with sound effects and a music lerp function, I made
 
 **Features:**
 
-- Music lerp function, it changes to combat mode when enemy is close to the player and switches back again when the player is away of the enemy.
+-   Music lerp function, it changes to combat mode when enemy is close to the player and switches back again when the player is away of the enemy.
 -   Contains a ragdoll that you can shoot for dynamic physics effect.
 -   Includes a mini-map displaying player and enemy locations and distances
+-   Object-Pooling
 <br/>
 Video Link: 
 https://drive.google.com/file/d/1ezN7sUelOMCiZeDa-bJhAyBWiWGbD74q/view?usp=share_link
